@@ -26,6 +26,11 @@
   </screenshots>
 
   <url type="homepage">https://rocket.github.io/</url>
+  <url type="bugtracker">https://github.com/rocket/rocket/issues</url>
+  <url type="vcs-browser">https://github.com/rocket/rocket</url>
+  <developer id="io.github.rocket">
+    <name>Rocket</name>
+  </developer>
 
   <content_rating type="oars-1.1" />
 
